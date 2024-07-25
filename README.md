@@ -4,7 +4,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=flat&logo=visual-studio-code&logoColor=white)
 <div class="github-introduction">
 
-Im a passionate **Web Developer** who enjoys bringing ideas, businesses, and passions to life on the web. I'm currently an IT Major at the **University of Cincinnati**. My free time is spent on learning Frontend development and when I'm not on the computer, I enjoy being outdoors rock climbing, backpacking, or any other type 2 fun ! 🌎🌊🌲
+I'm a passionate **Web Developer** who enjoys bringing ideas, businesses, and passions to life on the web. I'm currently an IT Major at the **University of Cincinnati**. My free time is spent on learning Frontend development and when I'm not on the computer, I enjoy being outdoors rock climbing, backpacking, or any other type 2 fun ! 🌎🌊🌲
 
 </div>
 
