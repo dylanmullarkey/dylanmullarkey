@@ -16,6 +16,7 @@ I'm a passionate **Web Developer** who enjoys bringing ideas, businesses, and pa
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react&logoColor=white&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-000000?style=flat&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
