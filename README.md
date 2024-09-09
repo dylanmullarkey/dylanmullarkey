@@ -20,7 +20,10 @@ I'm a passionate **Web Developer** who enjoys bringing ideas, businesses, and pa
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react&logoColor=white&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-000000?style=flat&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
-![Figma](https://img.shields.io/badge/figma-000000?style=flat&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=Figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=white)
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
